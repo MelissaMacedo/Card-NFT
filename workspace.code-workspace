@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "nft-melissa",
+			"path": "."
+		},
+		{
+			"name": "images",
+			"path": "..\\nft-preview-card-component-main\\images"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "nft-melissa"
+	}
+}
